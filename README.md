@@ -49,11 +49,6 @@
 ## 📌 Featured Projects
 
 - 🔹 **[biolink](https://github.com/shivamkb17/biolink)** — A personal/project link hub repository by **@shivamkb17**.
-- 🔹 **Project 2** — Add your next best project here  
-  `https://github.com/shivamkb17/project-2`
-- 🔹 **Project 3** — Add your next best project here  
-  `https://github.com/shivamkb17/project-3`
-
 ---
 
 ## 📊 GitHub Analytics
@@ -61,8 +56,8 @@
 <div align="center">
 
 <img height="170" src="https://streak-stats.demolab.com?user=shivamkb17&theme=tokyonight&hide_border=true" />
-<img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shivamkb17&theme=tokyonight" />
-<img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shivamkb17&theme=tokyonight" />
+<img height="170" src="https://repo-steel-omega.vercel.app/api/cards/repos-per-language?username=shivamkb17&theme=tokyonight" />
+<img height="170" src="https://repo-steel-omega.vercel.app/api/cards/most-commit-language?username=shivamkb17&theme=tokyonight" />
 
 </div>
 
