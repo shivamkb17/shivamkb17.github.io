@@ -60,10 +60,9 @@
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=shivamkb17&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
-<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=shivamkb17&layout=compact&theme=tokyonight&hide_border=true" />
-
 <img height="170" src="https://streak-stats.demolab.com?user=shivamkb17&theme=tokyonight&hide_border=true" />
+<img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shivamkb17&theme=tokyonight" />
+<img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shivamkb17&theme=tokyonight" />
 
 </div>
 
@@ -72,7 +71,17 @@
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=shivamkb17&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&margin-h=10" />
+  <img src="https://trophygithubreadmelang.cybee.dpdns.org/?username=shivamkb17&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&margin-h=10" />
+</div>
+
+---
+
+## 📈 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=shivamkb17&theme=tokyo-night&hide_border=true" />
+
 </div>
 
 ---
